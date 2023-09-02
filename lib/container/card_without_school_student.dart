@@ -1,5 +1,6 @@
-import 'package:course_app/constent.dart';
 import 'package:flutter/material.dart';
+
+import '../style.dart';
 
 class card extends StatelessWidget {
   const card(
